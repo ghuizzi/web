@@ -2,4 +2,8 @@ bye!!
 hi!
 gaby
 huizzi
+<<<<<<< HEAD
 sarai
+=======
+gabriela 
+>>>>>>> ramadificil
